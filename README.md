@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
   # Corporate Designer Portfolio Website
 
@@ -9,3 +10,6 @@
 
   Run `npm run dev` to start the development server.
   
+=======
+# Portfolio
+>>>>>>> 6301674aa236316b94075559ce09a08335697a18
